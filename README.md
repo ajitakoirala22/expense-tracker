@@ -28,7 +28,6 @@ SpendWise is a React expense tracker built with Create React App.
 ## Run Locally
 
 ```bash
-cd /Users/vishalshivakumarkanakamamidi/Desktop/ajproj/expense-tracker
 npm install
 npm start
 ```
